@@ -1,0 +1,14 @@
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\bin\Debug\KursovaDBFinal.exe.config
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\bin\Debug\KursovaDBFinal.exe
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\bin\Debug\KursovaDBFinal.pdb
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.csproj.AssemblyReference.cache
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.Form1.resources
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.log_in.resources
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.Properties.Resources.resources
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.sign_up.resources
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.csproj.GenerateResource.cache
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.csproj.CoreCompileInputs.cache
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.exe
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.pdb
+C:\Users\Неизвестный\source\repos\Kursov_DB\KursovaDBFinal\obj\Debug\KursovaDBFinal.Add_Form.resources
